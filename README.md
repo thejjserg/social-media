@@ -10,4 +10,9 @@ The Objectives of this project are to
 
 This project will showcase skills in Python's **Numpy**, **Matplotlib**, **Seaborn** and **Pandas** libraries, statistical **Python Programming**, **Data Analysis**, and **Data Visualization**. 
 
-
+## Project Plan
+1. Import required libraries
+2. Generate random data for the social media data
+3. Load the data into a Pandas DataFrame and explore the data
+4. Clean the data
+5. Visualize and analyze the data
